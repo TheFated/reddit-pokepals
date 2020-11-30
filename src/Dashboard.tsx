@@ -89,7 +89,7 @@ function Dashboard() {
                     placeholder="Sort"
                     style={{width: 100}}
                 />
-                <Title>PokePals</Title>
+                <Title>PokePals v2.0</Title>
             </Header>
             <Tiles>
                 {Object.entries(codes).map(([code, post]) => (
